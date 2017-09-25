@@ -1,7 +1,7 @@
 package sort;
 import java.util.Scanner;
 
-class sort {
+class Sort {
 	public static void main(String[] arguments){
 	      Scanner in = new Scanner(System.in);
 	      int[] values = new int[15];
