@@ -1,7 +1,7 @@
-package test;
+package Triangle;
 import java.util.Scanner;
 
-class Square {
+class Triangle {
 			public static void main(String[] arguments){
 			      Scanner in = new Scanner(System.in);
 			      int a = in.nextInt();
